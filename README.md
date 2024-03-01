@@ -14,4 +14,4 @@ Recognizing that a multiple-degree-of-freedom mass-spring-damper system can be v
 **Graphical Abstract**  
 TBC
 
-Codes will be uploaded soon.
+Codes will be available soon.
