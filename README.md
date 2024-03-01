@@ -14,5 +14,4 @@ Recognizing that a multiple-degree-of-freedom mass-spring-damper system can be v
 **Graphical Abstract**  
 TBC
 
-TBC: citation
-codes (ours, lstm, pinode, graphconv) and data (one train & one EQ test) of nonlinear sys
+Codes will be uploaded soon.
