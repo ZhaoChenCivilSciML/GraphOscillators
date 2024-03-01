@@ -14,4 +14,8 @@ Recognizing that a multiple-degree-of-freedom mass-spring-damper system can be v
 **Graphical Abstract**  
 <img src="concept.jpg" alt="drawing" width="750"/>
 
-Codes will be available soon.
+**Journal**  
+Mechanical Systems and Signal Processing
+
+**Paper Link**  
+https://www.sciencedirect.com/science/article/abs/pii/S088832702400195X
